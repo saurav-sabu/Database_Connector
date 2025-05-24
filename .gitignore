@@ -131,6 +131,7 @@ celerybeat.pid
 .env
 .venv
 env/
+db_connector/
 venv/
 ENV/
 env.bak/
