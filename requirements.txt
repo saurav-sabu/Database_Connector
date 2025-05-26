@@ -4,5 +4,4 @@ dnspython
 numpy
 ensure
 pytest
-
--e .
+python-dotenv
